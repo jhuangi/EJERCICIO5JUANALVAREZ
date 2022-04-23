@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    padding: 150px;
+    font-family: arial;
+    
+    }
+    
+    
+    #menu{
+    
+        background-color: #d6afdc;
+    }
+    
+    #menu ul{
+    
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+    
+    #menu ul li{
+    
+       
+        display: flex;
+        display: inline-flex;
+        
+    
+    }
+    
+    #menu ul li a{
+    
+        color: white;
+        display: block;
+        padding: 20px ;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    
+    
+    #menu ul li a:hover{
+    
+    background-color: blue;
+    
+    
+    
+    }
+    
